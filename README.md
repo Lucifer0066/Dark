@@ -1,4 +1,4 @@
-# Build a digital Assistent
+# Build a digital Assistant
 
 For Windows users -
 
